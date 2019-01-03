@@ -1,5 +1,5 @@
 object Versions {
-    const val kotlin = "1.3.0"
+    const val kotlin = "1.3.11"
 
     // versions
 }
